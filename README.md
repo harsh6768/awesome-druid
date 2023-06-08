@@ -42,4 +42,4 @@ Command to edit .bash_profile
       export PATH
 
 
-<img width="1438" alt="druid image" src="https://github.com/harsh6768/awesome-druid/blob/master/Upload/druid1.png">
+<img width="1438" alt=".bash_profile" src="[https://github.com/harsh6768/awesome-druid/blob/master/Upload/druid1.png](https://github.com/harsh6768/awesome-druid/blob/master/Upload/Screenshot%202023-06-08%20at%2012.38.04%20PM.png)">
