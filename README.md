@@ -25,7 +25,7 @@ Command to edit .bash_profile
     vi ~/.bash_profile
       
     
-.bash_profile 
+.bash_profile file
 
       
       JAVA_HOME="/Users/harsh/Downloads/jdk-17.0.2.jdk/Contents/Home"
@@ -42,3 +42,4 @@ Command to edit .bash_profile
       export PATH
 
 
+<img width="1438" alt="druid image" src="https://github.com/harsh6768/awesome-druid/blob/master/Upload/druid1.png">
