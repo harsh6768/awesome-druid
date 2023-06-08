@@ -17,7 +17,25 @@
  
      ln -s /Library/Java/JavaVirtualMachines/jdk-11.0.17.jdk/Contents /Library/Java/JavaVirtualMachines/jdk-11.0.17.jdk
 
-#### Go to the /Library/Java/JavaVirtualMachines and run ls command to check which version of java is present 
+#### 5. Go to the /Library/Java/JavaVirtualMachines and run ls command to check which version of java is present 
+#### 6. Open .bash_profile using text editor and add DRUID_JAVA_HOME path for java 8 or java 11 version
+      
+     Command to edit .bash_profile 
+     
+      vi ~/.bash_profile
+      
+       
+       JAVA_HOME="/Users/harsh/Downloads/jdk-17.0.2.jdk/Contents/Home"
+       export JAVA_HOME
+
+       M2_HOME="/Users/harsh/Downloads/apache-maven-3.8.5"
+       export MAVEN_HOME
+
+       // specific to druid only 
+       DRUID_JAVA_HOME="/Users/harsh/Downloads/jdk-11.0.17.jdk/Contents/Home"
+       export DRUID_JAVA_HOME
+
+       PATH=$PATH:$JAVA_HOME/bin:$M2_HOME/bin
+       export PATH
 
 
-    
