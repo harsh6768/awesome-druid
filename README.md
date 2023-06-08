@@ -43,3 +43,11 @@ Command to edit .bash_profile
 
 
 <img width="1438" alt=".bash_profile" src="https://github.com/harsh6768/awesome-druid/blob/master/Upload/Screenshot%202023-06-08%20at%2012.38.04%20PM.png">
+
+#### Now go to the druid bin folder and run start-druid file with below command and make zookeeper is not running in local ,else it won't restart.
+
+     ./start-druid
+     
+     
+ 
+<img width="1438" alt="run druid server" src="https://github.com/harsh6768/awesome-druid/blob/master/Upload/Screenshot%202023-06-08%20at%2012.42.04%20PM.png">  
