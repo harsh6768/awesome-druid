@@ -9,17 +9,17 @@ Druid is designed for use cases that require fast, interactive exploration of da
 
 **Key features of Druid include:**
 
-**Real-time ingestion:** Druid can ingest and process data in real time, making it ideal for streaming data sources like IoT devices or event-driven systems.
+**1. Real-time ingestion:** Druid can ingest and process data in real time, making it ideal for streaming data sources like IoT devices or event-driven systems.
 
-**Columnar storage:** Druid uses a columnar storage format optimized for fast analytical queries. This allows for efficient compression, faster query performance, and selective filtering of data.
+**2. Columnar storage:** Druid uses a columnar storage format optimized for fast analytical queries. This allows for efficient compression, faster query performance, and selective filtering of data.
 
-**Distributed architecture:** Druid can be deployed in a distributed cluster to handle large datasets and provide horizontal scalability. It can scale horizontally by adding more nodes to the cluster.
+**3. Distributed architecture:** Druid can be deployed in a distributed cluster to handle large datasets and provide horizontal scalability. It can scale horizontally by adding more nodes to the cluster.
 
-**Interactive queries:** Druid supports fast, interactive queries on large data sets. It provides low-latency querying capabilities, allowing users to explore and visualize data in real time.
+**4. Interactive queries:** Druid supports fast, interactive queries on large data sets. It provides low-latency querying capabilities, allowing users to explore and visualize data in real time.
 
-**Aggregation and filtering:** Druid supports advanced filtering and aggregation capabilities to perform complex analytical operations on data. It can efficiently handle group-by queries, time-based aggregations, and filtering based on dimensions or metrics.
+**5. Aggregation and filtering:** Druid supports advanced filtering and aggregation capabilities to perform complex analytical operations on data. It can efficiently handle group-by queries, time-based aggregations, and filtering based on dimensions or metrics.
 
-**Flexibility and extensibility:** Druid provides a pluggable architecture that allows integration with various data sources and third-party tools. It supports a wide range of data formats and can be extended with custom modules and plugins.
+**6. Flexibility and extensibility:** Druid provides a pluggable architecture that allows integration with various data sources and third-party tools. It supports a wide range of data formats and can be extended with custom modules and plugins.
 
 Overall, Druid is a powerful data store that enables real-time analytics and exploration of large-scale data sets. It offers fast query performance, scalability, and flexibility, making it a popular choice for organizations dealing with high-velocity, time-series data.
   
