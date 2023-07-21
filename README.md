@@ -69,7 +69,7 @@ Command to edit .bash_profile
 
 #### 7. Run below command 
 
-       source ~/.bash_profile
+      source ~/.bash_profile
 
 
        
