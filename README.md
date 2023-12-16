@@ -33,6 +33,7 @@ Overall, Druid is a powerful data store that enables real-time analytics and exp
 
 ## Setup Druid on Mac System : If you have multiple version of java in mac system
 
+
 #### 1. Download Druid from https://druid.apache.org/downloads.html official website
 #### 2. Unzip tar.gz file
 #### 3. Download java 8 or java 11 which are only supported by the druid as of now 
@@ -82,12 +83,12 @@ Command to edit .bash_profile
 <img width="1438" alt="run druid server" src="https://github.com/harsh6768/awesome-druid/blob/master/Upload/Screenshot%202023-06-08%20at%2012.42.04%20PM.png">  
 
 
+ # Quick Start 
 If you are getting error while running the druid,there is a quick way to run apache druid on local 
 
 1. Set  export DRUID_SKIP_JAVA_CHECK=1 if you are having multiple java version installed on machine
 2. Goto bin folder and run below command
 
-      ./start-micro-quickstart
+         ./start-micro-quickstart
 
-   
     
