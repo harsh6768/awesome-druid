@@ -90,13 +90,7 @@ If you are getting error while running the druid,there is a quick way to run apa
 2. Goto bin folder and run below command
 
 
-
-
-
-#Install Java On Mac 
-
-
-
          ./start-micro-quickstart
 
-    
+
+# Install Java On Mac
