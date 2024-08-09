@@ -89,6 +89,14 @@ If you are getting error while running the druid,there is a quick way to run apa
 1. Set  export DRUID_SKIP_JAVA_CHECK=1 if you are having multiple java version installed on machine
 2. Goto bin folder and run below command
 
+
+
+
+
+#Install Java On Mac 
+
+
+
          ./start-micro-quickstart
 
     
