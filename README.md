@@ -94,3 +94,6 @@ If you are getting error while running the druid,there is a quick way to run apa
 
 
 # Install Java On Mac
+
+Apache Druid Architecture : 
+
